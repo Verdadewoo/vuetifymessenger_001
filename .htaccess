@@ -1,0 +1,3 @@
+<FilesMatch "\.(js|css|json|xml|html|png|gif|jpg|svg)$">
+  Header set Content-Type "text/javascript"
+</FilesMatch>
